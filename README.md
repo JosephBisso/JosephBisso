@@ -1,7 +1,7 @@
 - I'm @JosephBisso 
 - I'm a mechatronical engineering student who likes coding
 - I’m looking to collaborate on all projects written in C++ or Java
-- How to reach me: Just send me a message
+
 
 <!---
 JosephBisso/JosephBisso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
