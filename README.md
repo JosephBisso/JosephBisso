@@ -7,11 +7,11 @@
 # My ongoing Projects #
 - ## C++ ##
   - [Covisualizer](https://github.com/JosephBisso/Starlink): A tool for visualizing Covid Data in Europa. 
-    - Read the complet manual [here](https://github.com/JosephBisso/Starlink/blob/master/manual%20instruction/Anleitung.pdf). This project was wirtten using Qt Creator.
+    - Read the complet manual [here](https://github.com/JosephBisso/Starlink/blob/master/manual%20instruction/Anleitung.pdf). This project was wirtten using **Qt Creator**.
     <img src="https://github.com/JosephBisso/Starlink/blob/master/manual%20instruction/Covisualizer%2019.08.2020%2015_31_03.png" width="350">
     
 - ## Java ##
-  - [Card game](https://github.com/JosephBisso/Java_Poject) : First Part of a Card Game. For now just the rule and basics of the game is written, so there is no GUI. This project is written and tested using Gradle
+  - [Card game](https://github.com/JosephBisso/Java_Poject) : First Part of a Card Game. For now just the rule and basics of the game is written, so there is no GUI. This project is written and _tested automatically_ using **Gradle**
 
 - ## Matlab ##
   - coming soon...
