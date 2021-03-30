@@ -1,10 +1,19 @@
+# Hello, Hallo, Salut #
 - I'm @JosephBisso 
 - I'm a mechatronical engineering student who likes coding
 - I’m looking to collaborate on all projects written in C++ or Java
 - Currently learning Python and Matlab
 
-
-
+# My ongoing Projects #
+- ## C++ ##
+  - [Covisualizer](https://github.com/JosephBisso/Starlink): A tool for visualizing Covid Data in Europa. 
+  
+   Download the manual [here](https://github.com/JosephBisso/Starlink/wiki/Anleitung). This project was wirtten using Qt Creator.
+    
+- ## Java ##
+  - [Card game](https://github.com/JosephBisso/Java_Poject) : First Part of a Card Game. For now just the rule and basics of the game is written, so there is no GUI. This project is written and tested using Gradle
+  
+# Github Stats #
 ![Stats](https://github-readme-stats.vercel.app/api?username=JosephBisso&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
 <!---
