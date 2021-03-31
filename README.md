@@ -9,11 +9,12 @@
   - [Covisualizer](https://github.com/JosephBisso/Starlink): A tool for visualizing Covid Data in Europa. 
     - Read the complet manual [here](https://github.com/JosephBisso/Starlink/blob/master/manual%20instruction/Anleitung.pdf). This project was wirtten using **Qt Creator**.
     
-    - Home Screen 
+    - ### Home Screen ### 
     
     <img src="https://github.com/JosephBisso/Starlink/blob/master/manual%20instruction/Covisualizer%2019.08.2020%2015_31_03.png" width="350">
     
-    - Data for Germany in 2020
+    
+    - ### Data for Germany in 2020 ###
     
     <img src="https://github.com/JosephBisso/Starlink/blob/master/manual%20instruction/API-Programm_BalkenDiagram.PNG" width="437,5">    
     <img src="https://github.com/JosephBisso/Starlink/blob/master/manual%20instruction/API_Programm_Graph.PNG" width="437,5">
