@@ -58,7 +58,7 @@
     
 ![Stats](https://github-readme-stats.vercel.app/api?username=JosephBisso&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
-[![JosephBisso's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JosephBisso&theme=blue-red)](https://github.com/JosephBisso/github-readme-stats)
+[![JosephBisso's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JosephBisso&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/JosephBisso/github-readme-stats)
 
 
 
