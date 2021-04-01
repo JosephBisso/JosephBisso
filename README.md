@@ -9,7 +9,7 @@
 <details><summary> C++ </summary><p>
     
 ### [Covisualizer](https://github.com/JosephBisso/Starlink) 
-[![GitHub release](https://img.shields.io/github/release/JosephBisso/Starlink.svg)](https://github.com/JosephBisso/Starlink/releases)
+[![GitHub tag](https://img.shields.io/github/tag/JosephBisso/Starlink.svg)](https://GitHub.com/JosephBisso/Starlink/tags/)
   - A tool for visualizing Covid Data in Europa. 
   - Read the complet manual [here](https://github.com/JosephBisso/Starlink/blob/master/manual%20instruction/Anleitung.pdf). This project was wirtten using **Qt Creator**.
     
@@ -29,6 +29,7 @@
 <p>
   
 ### [Card game](https://github.com/JosephBisso/Java_Poject)
+[![GitHub tag](https://img.shields.io/github/tag/JosephBisso/Java_Poject.svg)](https://GitHub.com/JosephBisso/Java_Poject/tags/)
 - First Part of a Card Game. For now just the rule and basics of the game is written, so there is no GUI.     
 - This project is written and _tested automatically_ using **Gradle**
 
