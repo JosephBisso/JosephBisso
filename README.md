@@ -31,6 +31,7 @@
   
 ### [Card game](https://github.com/JosephBisso/Java_Poject)
 [![GitHub tag](https://img.shields.io/github/tag/JosephBisso/Java_Poject.svg)](https://GitHub.com/JosephBisso/Java_Poject/tags/)
+![tested-with-JUnit](https://img.shields.io/badge/Tested%20with-JUnit-6e5494.svg)
 - First Part of a Card Game. For now just the rule and basics of the game is written, so there is no GUI.     
 - This project is written and _tested automatically_ using **Gradle**
 
