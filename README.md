@@ -2,7 +2,7 @@
 - I'm Joseph Bisso
 - I'm a mechatronical engineering student who likes coding
 - I’m looking to collaborate on all projects written in **C++** or **Java**
-- Currently learning Python and Matlab
+- Currently learning **Python** and **Matlab**
 
 # My ongoing Projects 
 
