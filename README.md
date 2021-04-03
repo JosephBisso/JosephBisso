@@ -21,8 +21,8 @@
     
   #### Data for Germany in 2020 
     
-  <img src="https://github.com/JosephBisso/Starlink/blob/master/manual%20instruction/API-Programm_BalkenDiagram.PNG" width="437,5">    
-  <img src="https://github.com/JosephBisso/Starlink/blob/master/manual%20instruction/API_Programm_Graph.PNG" width="437,5">
+  <img src="https://github.com/JosephBisso/Starlink/blob/master/manual%20instruction/Germany_Graph_Infi.png" width="437,5">    
+  <img src="https://github.com/JosephBisso/Starlink/blob/master/manual%20instruction/Germany_Diagram_GesamtTode.png" width="437,5">
   
 </p></details>  
 
