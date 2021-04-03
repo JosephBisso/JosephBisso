@@ -9,7 +9,7 @@
 <details><summary> C++ </summary><p>
     
 ### [Covisualizer](https://github.com/JosephBisso/Starlink) 
-[![GitHub tag](https://img.shields.io/github/tag/JosephBisso/Starlink.svg)](https://GitHub.com/JosephBisso/Starlink/tags/) 
+[![GitHub release](https://img.shields.io/github/v/release/Josephbisso/Starlink.svg)](https://github.com/JosephBisso/Starlink/releases) 
 ![made-with-QtCreator](https://img.shields.io/badge/Made%20with-QtCreator-6cc644.svg)
   - A tool for visualizing Covid Data in Europa. 
   - Read the complet manual [here](https://github.com/JosephBisso/Starlink/blob/master/manual%20instruction/Anleitung.pdf). This project was wirtten using **Qt Creator**.
