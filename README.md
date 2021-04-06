@@ -6,7 +6,9 @@
 
 # My ongoing Projects 
 
-<details><summary> C++ </summary><p>
+## C++
+
+<details><summary> Covisualizer </summary><p>
     
 ### [Covisualizer](https://github.com/JosephBisso/Starlink) 
 [![GitHub release](https://img.shields.io/github/v/release/Josephbisso/Starlink.svg)](https://github.com/JosephBisso/Starlink/releases) 
@@ -26,7 +28,9 @@
   
 </p></details>  
 
-<details><summary> Java </summary>
+## Java
+
+<details><summary> Card Game </summary>
 <p>
   
 ### [Card game](https://github.com/JosephBisso/Java_Poject)
@@ -38,7 +42,9 @@
 </p>
 </details>
 
-<details><summary>Matlab</summary> 
+## Matlab
+
+<details><summary>Matlab project</summary> 
 <p>
     
 ### coming soon...
@@ -46,7 +52,9 @@
 </p>
 </details>
 
-<details><summary>Python</summary> 
+## Python
+
+<details><summary>Python project</summary> 
 <p>
 
 ### coming soon... 
