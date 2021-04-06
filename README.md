@@ -33,7 +33,7 @@
 <details><summary> Card Game </summary>
 <p>
   
-### [Card game](https://github.com/JosephBisso/Java_Poject)
+### [Card game](https://github.com/JosephBisso/Cardgame)
 [![GitHub tag](https://img.shields.io/github/tag/JosephBisso/Java_Poject.svg)](https://GitHub.com/JosephBisso/Java_Poject/tags/)
 ![tested-with-JUnit](https://img.shields.io/badge/Tested%20with-JUnit-6e5494.svg)
 - First Part of a Card Game. For now just the rule and basics of the game is written, so there is no GUI.     
