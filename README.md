@@ -9,11 +9,17 @@
 ## C++
 
 <details><summary> Covisualizer </summary><p>
-    
+
 ### [Covisualizer](https://github.com/JosephBisso/Starlink) 
 [![GitHub release](https://img.shields.io/github/v/release/Josephbisso/Starlink.svg)](https://github.com/JosephBisso/Starlink/releases) 
 ![made-with-QtCreator](https://img.shields.io/badge/Made%20with-QtCreator-6cc644.svg)
   - A tool for visualizing Covid Data in Europa. 
+
+  <details><summary>Little Backstory </summary><p>
+    
+  - This project was initially a project we did for the programming course at the University. We were asked to programm a little appilcation as a test to pass the class and we taught a Covid-Tracker would be a pretty nice thing to programm. It was our first project for all of us, and we learned a lot of things and gained a lot of programming experience. After we passed the class, I decided to continue working on the project myself. Small bugs still need to be fixed and the computing time is still a bit long. The data set used at the beginning has also been changed and the program still needs to be adapted and optimized to this new format.
+</p></details>  
+
   - Read the complet manual [here](https://github.com/JosephBisso/Starlink/blob/master/manual%20instruction/Anleitung.pdf). This project was wirtten using **Qt Creator**.
     
   #### Home Screen 
