@@ -40,10 +40,26 @@
 <p>
   
 ### [Card game](https://github.com/JosephBisso/Cardgame)
-[![GitHub tag](https://img.shields.io/github/tag/JosephBisso/Java_Poject.svg)](https://GitHub.com/JosephBisso/Java_Poject/tags/)
+[![GitHub release](https://img.shields.io/github/v/release/Josephbisso/Cardgame.svg)](https://github.com/JosephBisso/Cardgame/releases)
 ![tested-with-JUnit](https://img.shields.io/badge/Tested%20with-JUnit-6e5494.svg)
-- First Part of a Card Game. For now just the rule and basics of the game is written, so there is no GUI.     
-- This project is written and _tested automatically_ using **Gradle**
+- Cardgame is a implementation of a physical Card game. For now there is only one pre-programmed Game but with this programm you can play a large number of card games if you know the rule and want to create a new Game with existing rules. But more (popular) Games are definitling in the way. Stay tunned!
+
+- Your opponents will be AIs. The last Player with remaining Card loose the Game. For now neither the number of Ais nor their Level can be changed, but I played a couple hundred games and sometimes I win and sometimes I loose. Either way I had a lot of fun
+
+- This project is written and _tested automatically_ using **Gradle** and **JUnit**
+
+#### Start Screen / Create Game 
+    
+  <img src="https://github.com/JosephBisso/Cardgame/blob/main/preview/StartScreen_newStyle.png" width="700">
+  <img src="https://github.com/JosephBisso/Cardgame/blob/main/preview/CreateNewGameScreen.png" width="700">
+  
+#### GamePlay 
+#### Player vs AIs
+
+<img src="https://github.com/JosephBisso/Cardgame/blob/main/preview/GamePlayScreen_interaction%20with_AI.png" width="700">
+
+#### AIs vs AIs
+  <img src="https://github.com/JosephBisso/Cardgame/blob/main/preview/GamePlayScreen_AIvsAivsAI.png" width="700">
 
 </p>
 </details>
