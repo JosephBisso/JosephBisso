@@ -10,7 +10,7 @@
 
 <details><summary> Covisualizer </summary><p>
 
-### [Covisualizer](https://github.com/JosephBisso/Starlink) 
+### [StarLINK](https://github.com/JosephBisso/Starlink) 
 [![GitHub release](https://img.shields.io/github/v/release/Josephbisso/Starlink.svg)](https://github.com/JosephBisso/Starlink/releases) 
 ![made-with-QtCreator](https://img.shields.io/badge/Made%20with-QtCreator-6cc644.svg)
   - A tool for visualizing Covid Data in Europa. 
@@ -33,6 +33,11 @@
   <img src="https://github.com/JosephBisso/Starlink/blob/master/manual%20instruction/Germany_Diagram_GesamtTode.png" width="437,5">
   
 </p></details>  
+
+<details><summary> Fall Physic Simulator </summary><p>
+
+### [StellarLINK](https://github.com/JosephBisso/Stellarlink) 
+ </p></details>
 
 ## Java
 
