@@ -8,7 +8,7 @@
 
 ## C++
 
-<details><summary> Covisualizer </summary><p>
+<details><summary> Covid Data Visualiser </summary><p>
 
 ### [StarLINK](https://github.com/JosephBisso/Starlink) 
 [![GitHub release](https://img.shields.io/github/v/release/Josephbisso/Starlink.svg)](https://github.com/JosephBisso/Starlink/releases) 
