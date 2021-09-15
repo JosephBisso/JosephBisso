@@ -8,7 +8,7 @@
 
 ## C++
 
-<details><summary> Covid Data Visualiser </summary><p>
+<details><summary> <strong>COVID DATA VISUALISER</strong>  </summary><p>
 
 ### [StarLINK](https://github.com/JosephBisso/Starlink) 
 [![GitHub release](https://img.shields.io/github/v/release/Josephbisso/Starlink.svg)](https://github.com/JosephBisso/Starlink/releases) 
@@ -34,14 +34,34 @@
   
 </p></details>  
 
-<details><summary> Fall Physic Simulator </summary><p>
+<details><summary> <strong>FALL PHYSIC SIMULATOR</strong> </summary><p>
 
 ### [StellarLINK](https://github.com/JosephBisso/Stellarlink) 
- </p></details>
+ 
+ [![GitHub release](https://img.shields.io/github/v/release/Josephbisso/Stellarlink.svg)](https://github.com/JosephBisso/Stellarlink/releases) 
+![made-with-QtCreator](https://img.shields.io/badge/Made%20with-QtCreator-6cc644.svg)
+
+- **StellarLink** is a 2D mini game / **Fall Physic Simulator** written in **Qt/QML**, **C++** and **JavaScript**.
+
+- In the game, you control a little ball cruising on the moon and enjoying a nice view on the planet Earth. 
+  
+  Get a glimpse of the game's mechanics through the GIF below:
+
+<p align="center">
+  <img src="https://github.com/JosephBisso/Stellarlink/blob/main/.github/gif/Stellar_accelerating.gif">
+</p> 
+  
+<p align="center">
+  <img width="650" heigth="900" src="https://github.com/JosephBisso/Stellarlink/blob/main/.github/gif/Stellar_earth.gif ">
+</p>  
+  
+  </p></details>
+ 
+ 
 
 ## Java
 
-<details><summary> Card Game </summary>
+<details><summary><strong>CARD GAME </strong> </summary>
 <p>
   
 ### [Card game](https://github.com/JosephBisso/Cardgame)
