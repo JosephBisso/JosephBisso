@@ -20,18 +20,14 @@
   - This project was initially a project we did for the programming course at the University. We were asked to programm a little appilcation as a test to pass the class and we taught a Covid-Tracker would be a pretty nice thing to programm. It was our first project for all of us, and we learned a lot of things and gained a lot of programming experience. After we passed the class, I decided to continue working on the project myself. Small bugs still need to be fixed and the computing time is still a bit long. The data set used at the beginning has also been changed and the program still needs to be adapted and optimized to this new format.
 </p></details>  
 
-  - Read the complet manual [here](https://github.com/JosephBisso/Starlink/blob/master/manual%20instruction/Anleitung.pdf). This project was wirtten using **Qt Creator**.
-    
-  #### Home Screen 
-    
-  <img src="https://github.com/JosephBisso/Starlink/blob/master/manual%20instruction/Covisualizer%2019.08.2020%2015_31_03.png" width="350">
-    
-    
-  #### Data for Germany in 2020 
-    
-  <img src="https://github.com/JosephBisso/Starlink/blob/master/manual%20instruction/Germany_Graph_Infi.png" width="437,5">    
-  <img src="https://github.com/JosephBisso/Starlink/blob/master/manual%20instruction/Germany_Diagram_GesamtTode.png" width="437,5">
-  
+  - Read the complet manual [here](https://github.com/JosephBisso/Starlink/blob/master/manual%20instruction/Anleitung.pdf). This project was wirtten using **Qt Creator**. 
+ 
+<div align="center">
+  <img src="https://github.com/JosephBisso/Starlink/blob/master/manual%20instruction/Covisualizer%2019.08.2020%2015_31_03.png" width="600">
+  <img src="https://github.com/JosephBisso/Starlink/blob/master/manual%20instruction/Germany_Graph_Infi.png" width="500">    
+  <img src="https://github.com/JosephBisso/Starlink/blob/master/manual%20instruction/Germany_Diagram_GesamtTode.png" width="500">
+</div>
+
 </p></details>  
 
 <details><summary> <strong>🔴 FALL PHYSIC SIMULATOR</strong> </summary><p>
@@ -72,20 +68,15 @@
 - Your opponents will be AIs. The last Player with remaining Card loose the Game. For now neither the number of Ais nor their Level can be changed, but I played a couple hundred games and sometimes I win and sometimes I loose. Either way I had a lot of fun
 
 - This project is written and _tested automatically_ using **Gradle** and **JUnit**
-
-#### Start Screen / Create Game 
-    
-  <img src="https://github.com/JosephBisso/Cardgame/blob/main/preview/StartScreen_newStyle.png" width="700">
-  <img src="https://github.com/JosephBisso/Cardgame/blob/main/preview/CreateNewGameScreen.png" width="700">
   
 #### GamePlay 
-#### Player vs AIs
-
-<img src="https://github.com/JosephBisso/Cardgame/blob/main/preview/GamePlayScreen_interaction%20with_AI.png" width="700">
-
-#### AIs vs AIs
-  <img src="https://github.com/JosephBisso/Cardgame/blob/main/preview/GamePlayScreen_AIvsAivsAI.png" width="700">
-
+  
+<div align="center">
+  <img src="https://github.com/JosephBisso/Cardgame/blob/main/preview/StartScreen_newStyle.png" width="600">
+  <img src="https://github.com/JosephBisso/Cardgame/blob/main/preview/GamePlayScreen_interaction%20with_AI.png" width="500">
+  <img src="https://github.com/JosephBisso/Cardgame/blob/main/preview/GamePlayScreen_AIvsAivsAI.png" width="500">
+</div>
+  
 </p>
 </details>
 
@@ -102,7 +93,7 @@
  
 
 <div align="center">
-  <img src="https://github.com/JosephBisso/aviosense_mode_s/blob/develop/.github/readme/map%20view.png"  width="500">
+  <img src="https://github.com/JosephBisso/aviosense_mode_s/blob/develop/.github/readme/map%20view.png"  width="600">
   <img src="https://github.com/JosephBisso/aviosense_mode_s/blob/develop/.github/readme/raw%20view.png" width="500">
   <img src="https://github.com/JosephBisso/aviosense_mode_s/blob/develop/.github/readme/kde%20view.png" width="500">
 </div>
