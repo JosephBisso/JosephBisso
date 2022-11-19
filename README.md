@@ -8,7 +8,7 @@
 
 ## C++
 
-<details><summary> <strong>COVID DATA VISUALISER</strong>  </summary><p>
+<details><summary style=><strong>🟣 COVID DATA VISUALISER</strong></p> </summary><p>
 
 ### [StarLINK](https://github.com/JosephBisso/Starlink) 
 [![GitHub release](https://img.shields.io/github/v/release/Josephbisso/Starlink.svg)](https://github.com/JosephBisso/Starlink/releases) 
@@ -34,7 +34,7 @@
   
 </p></details>  
 
-<details><summary> <strong>FALL PHYSIC SIMULATOR</strong> </summary><p>
+<details><summary> <strong>🔴 FALL PHYSIC SIMULATOR</strong> </summary><p>
 
 ### [StellarLINK](https://github.com/JosephBisso/Stellarlink) 
  
@@ -61,7 +61,7 @@
 
 ## Java
 
-<details><summary><strong>CARD GAME </strong> </summary>
+<details><summary><strong>🟠 CARD GAME </strong> </summary>
 <p>
   
 ### [Card game](https://github.com/JosephBisso/Cardgame)
@@ -89,23 +89,35 @@
 </p>
 </details>
 
+## Python
+
+<details><summary><strong>🔵 AVIOSENSE MODE_S</strong></summary> 
+<p>
+
+### [Aviosense MODE-S](https://github.com/JosephBisso/aviosense_mode_s) 
+
+- **Aviosense MODE-S** is a **Data analaysis** app written in **python**, **Qt/QML** and **JavaScript**.
+
+- Aviosense MODE_S aims to make statements on turbulence using available data from MODE-S receiversn thanks a automated procedure for data transfer and calculation of the given approach while increasing the temporal and spatial scale of the data set used for the calculation 
+ 
+
+<div align="center">
+  <img src="https://github.com/JosephBisso/aviosense_mode_s/blob/develop/.github/readme/map%20view.png"  width="500">
+  <img src="https://github.com/JosephBisso/aviosense_mode_s/blob/develop/.github/readme/raw%20view.png" width="500">
+  <img src="https://github.com/JosephBisso/aviosense_mode_s/blob/develop/.github/readme/kde%20view.png" width="500">
+</div>
+ 
+ 
+</p>
+</details>
+
 ## Matlab
 
-<details><summary>Matlab project</summary> 
+<details><summary>◯ Matlab project</summary> 
 <p>
     
 ### coming soon...
   
-</p>
-</details>
-
-## Python
-
-<details><summary>Python project</summary> 
-<p>
-
-### coming soon... 
-
 </p>
 </details>
   
