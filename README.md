@@ -86,7 +86,7 @@
 <p>
 
 ### [Aviosense MODE-S](https://github.com/JosephBisso/aviosense_mode_s) 
-
+[![GitHub release](https://img.shields.io/github/v/release/Josephbisso/aviosense_mode_s.svg)](https://github.com/JosephBisso/aviosense_mode_s/releases) 
 - **Aviosense MODE-S** is a **Data analaysis** app written in **python**, **Qt/QML** and **JavaScript**.
 
 - Aviosense MODE_S aims to make statements on turbulence using available data from MODE-S receiversn thanks a automated procedure for data transfer and calculation of the given approach while increasing the temporal and spatial scale of the data set used for the calculation 
