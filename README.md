@@ -114,7 +114,7 @@
   
 # Github Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=JosephBisso&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+![Stats](https://github-readme-stats.vercel.app/api?username=JosephBisso&include_all_commits=true&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Josephbisso.visitor-badge)
 <!---
