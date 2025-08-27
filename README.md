@@ -1,10 +1,4 @@
-# Hello, Hallo, Salut 
-- I'm Joseph Bisso
-- I'm a mechatronical engineering student who likes coding
-- I’m looking to collaborate on all projects written in **C++**, **Java**, **Python**
-- Currently learning **Matlab**
-
-# My ongoing Projects 
+# My completed and ongoing Projects 
 
 ## C++
 
@@ -53,7 +47,49 @@
   
   </p></details>
  
+
+## FPGA
+
+<details><summary><strong>🟢 LOGIC ANALYZER</strong></summary>
+<p>
+
+### [FPGA Logic Analyzer](https://github.com/JosephBisso/logic_analyser)
+
+![made-with-Vivado](https://img.shields.io/badge/Made%20with-Vivado-blueviolet.svg)
+![Xilink](https://img.shields.io/badge/Xilinx%20Zynq-FPGA-green.svg)
+
+- **FPGA Logic Analyser** is a hardware project implemented on an FPGA board using **VHDL**.
+- The project is an 8-channel logic analyser capable of sampling digital signals at up to 1 MHz, with real-time visualization via VGA output. Implemented on a Xilinx FPGA board, it captures and displays signal states for debugging and educational purposes, demonstrating practical digital design and hardware interfacing.
+
+<div align="center">
+  <img src="https://github.com/JosephBisso/logic_analyser/blob/df10a10f327f74625e4832cd37e0895684356a0c/img/logic_analyser.jpg" width="500">
+</div>
+
+</p>
+</details>
  
+## Python
+
+<details><summary><strong>🔵 AVIOSENSE MODE_S</strong></summary> 
+<p>
+
+### [Aviosense MODE-S](https://github.com/JosephBisso/aviosense_mode_s) 
+[![GitHub release](https://img.shields.io/github/v/release/Josephbisso/aviosense_mode_s.svg)](https://github.com/JosephBisso/aviosense_mode_s/releases) 
+- **Aviosense MODE-S** is a **Data analaysis** app written in **python**, **Qt/QML** and **JavaScript**.
+
+- Aviosense MODE_S aims to make statements on turbulence using available data from MODE-S receiversn thanks a automated procedure for data transfer and calculation of the given approach while increasing the temporal and spatial scale of the data set used for the calculation 
+ 
+
+<div align="center">
+  <img src="https://github.com/JosephBisso/aviosense_mode_s/blob/develop/.github/readme/map%20view.png"  width="600">
+  <img src="https://github.com/JosephBisso/aviosense_mode_s/blob/develop/.github/readme/raw%20view.png" width="500">
+  <img src="https://github.com/JosephBisso/aviosense_mode_s/blob/develop/.github/readme/kde%20view.png" width="500">
+</div>
+ 
+ 
+</p>
+</details>
+
 
 ## Java
 
@@ -77,28 +113,6 @@
   <img src="https://github.com/JosephBisso/Cardgame/blob/main/preview/GamePlayScreen_AIvsAivsAI.png" width="500">
 </div>
   
-</p>
-</details>
-
-## Python
-
-<details><summary><strong>🔵 AVIOSENSE MODE_S</strong></summary> 
-<p>
-
-### [Aviosense MODE-S](https://github.com/JosephBisso/aviosense_mode_s) 
-[![GitHub release](https://img.shields.io/github/v/release/Josephbisso/aviosense_mode_s.svg)](https://github.com/JosephBisso/aviosense_mode_s/releases) 
-- **Aviosense MODE-S** is a **Data analaysis** app written in **python**, **Qt/QML** and **JavaScript**.
-
-- Aviosense MODE_S aims to make statements on turbulence using available data from MODE-S receiversn thanks a automated procedure for data transfer and calculation of the given approach while increasing the temporal and spatial scale of the data set used for the calculation 
- 
-
-<div align="center">
-  <img src="https://github.com/JosephBisso/aviosense_mode_s/blob/develop/.github/readme/map%20view.png"  width="600">
-  <img src="https://github.com/JosephBisso/aviosense_mode_s/blob/develop/.github/readme/raw%20view.png" width="500">
-  <img src="https://github.com/JosephBisso/aviosense_mode_s/blob/develop/.github/readme/kde%20view.png" width="500">
-</div>
- 
- 
 </p>
 </details>
 
