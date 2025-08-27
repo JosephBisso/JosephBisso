@@ -48,9 +48,9 @@
   </p></details>
  
 
-## FPGA
+## VHDL
 
-<details><summary><strong>🟢 LOGIC ANALYZER</strong></summary>
+<details><summary><strong>🟢 FPGA LOGIC ANALYZER</strong></summary>
 <p>
 
 ### [FPGA Logic Analyzer](https://github.com/JosephBisso/logic_analyser)
@@ -59,7 +59,7 @@
 ![Xilink](https://img.shields.io/badge/Xilinx%20Zynq-FPGA-green.svg)
 
 - **FPGA Logic Analyser** is a hardware project implemented on an FPGA board using **VHDL**.
-- The project is an 8-channel logic analyser capable of sampling digital signals at up to 1 MHz, with real-time visualization via VGA output. Implemented on a Xilinx FPGA board, it captures and displays signal states for debugging and educational purposes, demonstrating practical digital design and hardware interfacing.
+- The project is an **8-channel** logic analyser capable of sampling digital signals at up to **1 MHz**, with visualization via **VGA output**. Implemented on a Xilinx FPGA board, it captures and displays signal states for debugging and educational purposes, demonstrating practical digital design and hardware interfacing.
 
 <div align="center">
   <img src="https://github.com/JosephBisso/logic_analyser/blob/df10a10f327f74625e4832cd37e0895684356a0c/img/logic_analyser.jpg" width="500">
